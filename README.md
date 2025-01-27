@@ -42,6 +42,8 @@ The MATLAB scripts in this repository require the following dependencies:
 2. **Gurobi Optimizer**:
    Ensure you have a valid Gurobi license and have installed the Gurobi MATLAB interface. Visit the [Gurobi website](https://www.gurobi.com/) for more details.
 
+The Senario Tree can be generated with the code from this repo: https://github.com/badber/StochasticUnitCommitment/tree/master/scenario_tree
+
 ## Citation
 
 If you find this repository useful, please consider citing the following paper:
