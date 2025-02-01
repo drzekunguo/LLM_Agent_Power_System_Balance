@@ -2,6 +2,8 @@
 
 This repository contains the codebase for leveraging Large Language Model (LLM) Agents to assist in decision-making for power system operations. It includes Jupyter Notebook and MATLAB scripts for various tasks related to power system balance.
 
+*ChatGPT o1 assisted with debugging and commenting on this code.
+
 ## Repository Structure
 
 - `Prob Generator.ipynb`: A Jupyter Notebook utilizing Microsoft's Autogen framework for probabilistic generation and system operation tasks.
