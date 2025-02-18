@@ -51,15 +51,14 @@ The Senario Tree can be generated with the code from this repo: https://github.c
 If you find this repository useful, please consider citing the following paper:
 
 ```
-@article{your_paper,
-  author    = {Your Name and Co-Authors},
-  title     = {Title of the Paper},
-  journal   = {Journal Name},
-  year      = {2025},
-  volume    = {XX},
-  number    = {YY},
-  pages     = {ZZ-ZZ},
-  doi       = {DOI URL},
+@misc{ren2025largelanguagemodelagents,
+      title={Can Large Language Model Agents Balance Energy Systems?}, 
+      author={Xinxing Ren and Chun Sing Lai and Gareth Taylor and Zekun Guo},
+      year={2025},
+      eprint={2502.10557},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2502.10557}, 
 }
 ```
 
