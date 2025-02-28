@@ -1,7 +1,7 @@
 # Can Large Language Model Agents Balance Energy Systems?
 [![arXiv](https://img.shields.io/badge/arXiv-Preprint-red)](https://arxiv.org/abs/2502.10557)
 
-Code Author: Zekun Guo, Xinxing Ren
+Code Author: Zekun Guo (https://drzekunguo.github.io/), Xinxing Ren (https://github.com/renxinxing123)
 
 This repository contains the codebase for leveraging Large Language Model (LLM) Agents to assist in decision-making for power system operations. It includes Jupyter Notebook and MATLAB scripts for various tasks related to power system balance.
 
