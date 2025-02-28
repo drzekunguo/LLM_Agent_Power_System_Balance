@@ -1,4 +1,4 @@
-# AI_Power_System_Balance
+# Can Large Language Model Agents Balance Energy Systems?
 [![arXiv](https://img.shields.io/badge/arXiv-Preprint-red)](https://arxiv.org/abs/2502.10557)
 
 This repository contains the codebase for leveraging Large Language Model (LLM) Agents to assist in decision-making for power system operations. It includes Jupyter Notebook and MATLAB scripts for various tasks related to power system balance.
