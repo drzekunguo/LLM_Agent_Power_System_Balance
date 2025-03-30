@@ -5,7 +5,7 @@ Code Author: Zekun Guo (https://drzekunguo.github.io/), Xinxing Ren (https://git
 
 This repository contains the codebase for leveraging Large Language Model (LLM) Agents to assist in decision-making for power system operations. It includes Jupyter Notebook and MATLAB scripts for various tasks related to power system balance.
 
-*ChatGPT o1 assisted with debugging and commenting on this code.
+*ChatGPT o1 and o3-mini-high assisted with debugging and commenting on this code.
 
 ## Repository Structure
 
