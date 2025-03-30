@@ -12,6 +12,12 @@ This repository contains the codebase for leveraging Large Language Model (LLM) 
 - `Prob Generator.ipynb`: A Jupyter Notebook utilizing Microsoft's Autogen framework for probabilistic generation and system operation tasks.
 - MATLAB Codes: Scripts that rely on optimization libraries for power system modeling and decision-making.
 
+## Updates on 30th March 2025
+
+A new 10-trial experiment has been implemented to evaluate the performance of the LLM-assisted Stochastic Unit Commitment (LLM-SUC) framework. Experimental results demonstrate that the LLM-SUC approach achieves a cost reduction of approximately 1.1–2.7% and lowers load curtailment by around 26.3% compared to the traditional SUC method.
+
+The probability generation code is now all in the 'Prob_MoreTest.py' file.
+
 ## Getting Started
 
 ### Setting Up the Environment for `Prob Generator.ipynb`
